@@ -1,3 +1,7 @@
+<h4 align="center"> 
+	🚧  Status: 🚀 Em construção...  🚧
+</h4>
+
 <h1 align="center">N3 Linguagem de programação 3</h1>
 
 Sobre
@@ -20,10 +24,6 @@ Conteúdo
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
-
-<h4 align="center"> 
-	🚧  Status: 🚀 Em construção...  🚧
-</h4>
 
 ## Technologies
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" style="max-width:100%;"></img>
